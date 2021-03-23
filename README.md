@@ -1,6 +1,14 @@
 # Learn Python with Rune
 ## Python for Beginners
 
+## How this works
+- [Get the dBook to follow the all the lessons and projects](https://www.learnpythonwithrune.org/learn-python-python-for-beginners/).
+- [Follow the online video tutorials for the lessons](https://www.learnpythonwithrune.org/learn-python-python-for-beginners/).
+
+There are two options.
+1. Download all the notebooks from this repository and run them in Jupyter Notebook. Chapter one in eBook will get you started with that.
+2. Run the Jupyter Notebooks in Colab (follow links below). No installation needed.
+
 Follow the lessons in Colab
 - Lesson 00: [Hello World](https://colab.research.google.com/github/LearnPythonWithRune/LearnPython/blob/main/00%20-%20Lesson%20-%20Hello%20World.ipynb)
 - Project 00: [Input and Output Strings](https://colab.research.google.com/github/LearnPythonWithRune/LearnPython/blob/main/00%20-%20Project%20-%20Input%20and%20Output%20Strings.ipynb)
