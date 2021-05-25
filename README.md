@@ -2,8 +2,8 @@
 ## Python for Beginners
 
 ## How this works
-- [Get the eBook to follow the all the lessons and projects](https://www.learnpythonwithrune.org/learn-python-python-for-beginners/).
-- [Follow the online video tutorials for the lessons](https://www.learnpythonwithrune.org/learn-python-python-for-beginners/).
+- [Get the eBook to follow the all the lessons and projects](https://www.learnpythonwithrune.org/learn-python/).
+- [Follow the online video tutorials for the lessons](https://www.learnpythonwithrune.org/learn-python/).
 
 There are two options.
 1. Download all the notebooks from this repository and run them in Jupyter Notebook. Chapter one in eBook will get you started with that.
