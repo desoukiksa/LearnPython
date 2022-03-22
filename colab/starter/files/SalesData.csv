@@ -1,0 +1,1001 @@
+Date;Sales rep;Item;Price;Quantity;Sale
+2020-05-31;Mia;Markers;4;1;4
+2020-02-01;Mia;Desk chair;199;2;398
+2020-09-21;Oliver;Table;1099;2;2198
+2020-07-15;Charlotte;Desk pad;9;2;18
+2020-05-27;Emma;Book;12;1;12
+2020-12-05;Noah;Light;399;4;1596
+2020-01-08;Noah;Light;399;2;798
+2020-12-09;Ethan;Book;12;1;12
+2020-12-08;Charlotte;Light;399;2;798
+2020-08-13;Charlotte;Table;1099;5;5495
+2020-04-09;Noah;Light;399;5;1995
+2020-12-28;Mia;Desk chair;199;1;199
+2020-01-15;Charlotte;Markers;4;2;8
+2020-06-19;Charlotte;File folders;19;4;76
+2020-09-09;Ethan;File folders;19;4;76
+2020-08-09;Oliver;Light;399;4;1596
+2020-02-11;Ethan;File folders;19;4;76
+2020-07-31;Sophia;Book;12;4;48
+2020-07-11;Mia;Pen;3;5;15
+2020-12-28;Liam;Table;1099;1;1099
+2020-10-27;Noah;Table;1099;2;2198
+2020-12-29;Liam;Markers;4;2;8
+2020-03-01;Mia;Desk pad;9;4;36
+2020-11-15;Noah;Book;12;2;24
+2020-04-27;Liam;Pen;3;1;3
+2020-10-11;William;Desk chair;199;5;995
+2020-05-12;Mia;Desk pad;9;3;27
+2020-12-14;Mia;Book;12;1;12
+2020-06-02;Mia;Pen;3;1;3
+2020-05-29;Charlotte;Markers;4;2;8
+2020-04-03;Sophia;Desk pad;9;4;36
+2020-01-07;Oliver;Table;1099;4;4396
+2020-03-03;Oliver;File folders;19;2;38
+2020-10-04;Mia;Markers;4;1;4
+2020-01-12;Ethan;Markers;4;3;12
+2020-07-04;Charlotte;Desk pad;9;1;9
+2020-02-02;William;Book;12;3;36
+2020-03-18;Emma;Table;1099;1;1099
+2020-01-20;Sophia;Light;399;2;798
+2020-02-18;Charlotte;Table;1099;3;3297
+2020-04-03;William;Book;12;4;48
+2020-07-13;Oliver;Table;1099;1;1099
+2020-04-24;Ethan;Pen;3;4;12
+2020-06-24;Mia;Light;399;1;399
+2020-01-21;Oliver;Desk chair;199;4;796
+2020-10-13;Charlotte;Desk pad;9;4;36
+2020-01-28;Oliver;Pen;3;2;6
+2020-04-20;Mia;Desk pad;9;5;45
+2020-12-11;Noah;Desk chair;199;4;796
+2020-03-11;Liam;Desk chair;199;5;995
+2020-04-09;Noah;Desk pad;9;3;27
+2020-12-24;Emma;Pen;3;2;6
+2020-12-14;Liam;Markers;4;5;20
+2020-07-05;Charlotte;Table;1099;1;1099
+2020-03-06;Ethan;Pen;3;1;3
+2020-07-08;Ethan;Desk pad;9;2;18
+2020-03-12;William;Desk chair;199;4;796
+2020-11-18;Ethan;Desk chair;199;2;398
+2020-05-14;William;Desk pad;9;4;36
+2020-11-29;William;Table;1099;1;1099
+2020-03-18;Ethan;Desk pad;9;3;27
+2020-04-02;Emma;Desk pad;9;3;27
+2020-02-19;Charlotte;File folders;19;2;38
+2020-09-12;Liam;Table;1099;2;2198
+2020-11-17;William;Pen;3;4;12
+2020-09-11;Sophia;Light;399;1;399
+2020-07-25;Liam;Book;12;4;48
+2020-11-01;Noah;Table;1099;4;4396
+2020-01-05;Emma;Light;399;1;399
+2020-10-16;Liam;Light;399;2;798
+2020-02-11;Charlotte;Desk chair;199;1;199
+2020-08-16;Liam;Light;399;3;1197
+2020-06-20;Ethan;Desk chair;199;4;796
+2020-03-13;Oliver;File folders;19;2;38
+2020-12-22;William;Light;399;5;1995
+2020-07-02;Noah;Book;12;4;48
+2020-02-09;Liam;Light;399;5;1995
+2020-03-26;Oliver;Table;1099;2;2198
+2020-05-06;Charlotte;Book;12;2;24
+2020-01-23;Ethan;Desk pad;9;3;27
+2020-02-23;Emma;Desk chair;199;4;796
+2020-06-13;Emma;Markers;4;3;12
+2020-04-16;Liam;Table;1099;1;1099
+2020-08-28;Ethan;Light;399;3;1197
+2020-11-05;Emma;Desk chair;199;3;597
+2020-11-27;Mia;Light;399;3;1197
+2020-03-25;Oliver;Pen;3;4;12
+2020-12-20;Sophia;Markers;4;4;16
+2020-02-16;Ethan;Book;12;4;48
+2020-10-15;Oliver;Desk chair;199;2;398
+2020-10-10;Ethan;Desk pad;9;2;18
+2020-10-28;Noah;Pen;3;5;15
+2020-05-24;Mia;Light;399;1;399
+2020-07-16;Oliver;Table;1099;2;2198
+2020-02-23;Emma;Desk chair;199;4;796
+2020-07-29;Mia;Table;1099;3;3297
+2020-05-12;Oliver;Pen;3;4;12
+2020-04-13;Mia;Desk pad;9;4;36
+2020-02-07;Mia;Desk chair;199;2;398
+2020-04-02;Sophia;Book;12;2;24
+2020-10-15;Oliver;Table;1099;3;3297
+2020-06-10;Emma;Pen;3;4;12
+2020-11-22;William;Pen;3;2;6
+2020-12-19;Oliver;Pen;3;4;12
+2020-06-25;Oliver;Pen;3;3;9
+2020-05-12;Oliver;Desk chair;199;3;597
+2020-03-30;Sophia;Book;12;3;36
+2020-10-27;Ethan;Desk chair;199;1;199
+2020-05-20;Liam;Desk chair;199;1;199
+2020-08-09;Noah;Light;399;5;1995
+2020-01-11;Sophia;Table;1099;2;2198
+2020-01-29;William;Light;399;1;399
+2020-03-19;William;Table;1099;5;5495
+2020-12-17;Ethan;File folders;19;5;95
+2020-03-20;William;Desk pad;9;1;9
+2020-11-24;Liam;Pen;3;3;9
+2020-01-03;Sophia;Pen;3;2;6
+2020-11-13;Mia;Markers;4;1;4
+2020-06-22;William;File folders;19;1;19
+2020-01-25;Noah;Desk pad;9;5;45
+2020-11-26;Sophia;Book;12;1;12
+2020-11-14;Mia;Table;1099;4;4396
+2020-06-14;Charlotte;Pen;3;1;3
+2020-05-31;Oliver;Pen;3;3;9
+2020-12-05;Liam;File folders;19;4;76
+2020-02-27;Charlotte;Table;1099;4;4396
+2020-11-18;Sophia;Table;1099;2;2198
+2020-10-21;Mia;Desk pad;9;1;9
+2020-07-20;Ethan;Pen;3;1;3
+2020-03-09;Sophia;File folders;19;4;76
+2020-08-12;Sophia;Markers;4;3;12
+2020-04-25;Sophia;Pen;3;2;6
+2020-06-28;Emma;Light;399;4;1596
+2020-03-20;Emma;Pen;3;3;9
+2020-08-31;Sophia;Desk pad;9;4;36
+2020-04-15;Oliver;File folders;19;4;76
+2020-09-20;Sophia;Light;399;3;1197
+2020-04-17;Emma;Book;12;1;12
+2020-06-26;William;Light;399;5;1995
+2020-02-10;Ethan;Pen;3;2;6
+2020-08-09;Oliver;Desk chair;199;4;796
+2020-03-15;Liam;Book;12;1;12
+2020-08-19;Ethan;Pen;3;3;9
+2020-01-28;Noah;File folders;19;5;95
+2020-06-21;Ethan;Book;12;3;36
+2020-08-22;Noah;Desk chair;199;3;597
+2020-05-12;William;Markers;4;1;4
+2020-09-25;Mia;Markers;4;4;16
+2020-12-25;Ethan;Book;12;2;24
+2020-12-16;Sophia;Pen;3;4;12
+2020-08-02;Noah;Light;399;3;1197
+2020-11-14;Charlotte;Markers;4;4;16
+2020-05-12;Liam;Book;12;1;12
+2020-03-29;Noah;Table;1099;3;3297
+2020-10-06;Emma;File folders;19;5;95
+2020-02-21;Liam;Markers;4;1;4
+2020-08-25;Charlotte;Markers;4;4;16
+2020-07-22;Liam;File folders;19;4;76
+2020-10-15;Noah;Desk chair;199;1;199
+2020-01-04;Liam;Book;12;1;12
+2020-04-24;Mia;Desk chair;199;1;199
+2020-10-31;Mia;Desk chair;199;5;995
+2020-09-08;Liam;Light;399;5;1995
+2020-06-07;Ethan;Book;12;4;48
+2020-11-27;Noah;Book;12;5;60
+2020-08-30;Sophia;Light;399;4;1596
+2020-01-24;Charlotte;Pen;3;3;9
+2020-09-06;Oliver;Pen;3;1;3
+2020-08-02;Mia;Desk chair;199;5;995
+2020-11-07;Liam;File folders;19;5;95
+2020-07-16;William;Desk pad;9;1;9
+2020-08-05;Charlotte;Light;399;3;1197
+2020-05-20;Ethan;Pen;3;2;6
+2020-04-25;Emma;Pen;3;1;3
+2020-12-27;William;Markers;4;5;20
+2020-07-29;Emma;Desk pad;9;5;45
+2020-11-10;Noah;Desk chair;199;4;796
+2020-05-06;Sophia;File folders;19;4;76
+2020-08-18;Noah;Light;399;3;1197
+2020-11-29;Oliver;Desk chair;199;1;199
+2020-04-20;Oliver;Table;1099;1;1099
+2020-07-30;Oliver;Table;1099;5;5495
+2020-08-23;Charlotte;Pen;3;1;3
+2020-08-25;Charlotte;File folders;19;4;76
+2020-08-31;William;Light;399;4;1596
+2020-11-14;Charlotte;Desk chair;199;2;398
+2020-04-29;Oliver;Book;12;2;24
+2020-02-01;William;Pen;3;4;12
+2020-12-28;Ethan;Book;12;3;36
+2020-04-27;Mia;Book;12;1;12
+2020-01-16;Emma;Desk pad;9;2;18
+2020-05-15;William;Pen;3;5;15
+2020-12-07;Charlotte;File folders;19;2;38
+2020-03-13;William;Markers;4;3;12
+2020-02-16;Ethan;Table;1099;3;3297
+2020-02-05;Emma;Table;1099;1;1099
+2020-01-28;Mia;Book;12;2;24
+2020-09-21;Emma;Desk pad;9;2;18
+2020-10-15;Mia;Markers;4;4;16
+2020-09-27;Noah;File folders;19;4;76
+2020-04-11;Emma;Desk pad;9;5;45
+2020-06-08;William;Book;12;1;12
+2020-02-23;Oliver;Desk pad;9;1;9
+2020-02-01;Oliver;Desk chair;199;3;597
+2020-10-27;Mia;File folders;19;1;19
+2020-02-03;Charlotte;Light;399;5;1995
+2020-04-23;Liam;Pen;3;3;9
+2020-09-25;William;Book;12;3;36
+2020-12-18;Mia;Light;399;2;798
+2020-02-17;Mia;Light;399;1;399
+2020-01-04;Sophia;File folders;19;5;95
+2020-06-05;William;File folders;19;2;38
+2020-01-04;Noah;File folders;19;5;95
+2020-11-07;Oliver;Desk chair;199;4;796
+2020-01-02;William;Book;12;3;36
+2020-12-01;Sophia;Desk chair;199;2;398
+2020-01-22;Mia;File folders;19;1;19
+2020-02-28;Oliver;Desk pad;9;4;36
+2020-04-29;Charlotte;Desk chair;199;2;398
+2020-04-22;Charlotte;Desk chair;199;4;796
+2020-03-19;Noah;File folders;19;4;76
+2020-07-06;Ethan;Desk chair;199;4;796
+2020-08-11;Sophia;Light;399;3;1197
+2020-06-12;Mia;Book;12;3;36
+2020-04-11;Charlotte;Light;399;2;798
+2020-09-09;Emma;Markers;4;3;12
+2020-08-04;Sophia;File folders;19;4;76
+2020-11-16;William;Desk pad;9;3;27
+2020-02-23;Oliver;Light;399;5;1995
+2020-09-04;Charlotte;Book;12;2;24
+2020-02-25;Sophia;Pen;3;3;9
+2020-01-23;Ethan;File folders;19;4;76
+2020-04-27;Charlotte;Table;1099;4;4396
+2020-06-22;Noah;Pen;3;3;9
+2020-12-08;Noah;Table;1099;2;2198
+2020-08-08;Mia;Table;1099;3;3297
+2020-02-28;Emma;Desk pad;9;2;18
+2020-06-10;Ethan;Desk chair;199;2;398
+2020-04-03;Sophia;Book;12;3;36
+2020-09-16;Mia;Book;12;5;60
+2020-01-02;Ethan;File folders;19;4;76
+2020-12-11;Liam;Pen;3;5;15
+2020-08-03;Liam;File folders;19;3;57
+2020-09-24;Charlotte;Desk pad;9;4;36
+2020-10-25;Emma;Light;399;4;1596
+2020-11-25;William;Desk pad;9;2;18
+2020-04-11;Sophia;Markers;4;4;16
+2020-05-27;Emma;Desk pad;9;3;27
+2020-08-16;Ethan;File folders;19;4;76
+2020-12-18;William;Table;1099;3;3297
+2020-07-31;Charlotte;Desk chair;199;2;398
+2020-06-03;William;Table;1099;1;1099
+2020-03-14;Emma;Desk chair;199;1;199
+2020-05-05;Emma;Book;12;3;36
+2020-12-01;Ethan;Book;12;5;60
+2020-09-17;Charlotte;Light;399;4;1596
+2020-06-25;Mia;File folders;19;1;19
+2020-05-20;William;Markers;4;5;20
+2020-08-29;Oliver;Table;1099;1;1099
+2020-03-22;Liam;Desk pad;9;4;36
+2020-05-14;William;Table;1099;4;4396
+2020-05-10;Emma;Book;12;1;12
+2020-04-27;Emma;Pen;3;1;3
+2020-03-28;Ethan;Desk chair;199;1;199
+2020-03-25;Oliver;File folders;19;2;38
+2020-06-15;Sophia;Table;1099;5;5495
+2020-04-19;Liam;Table;1099;3;3297
+2020-05-05;Charlotte;Table;1099;1;1099
+2020-08-02;Mia;Markers;4;1;4
+2020-11-06;Noah;Table;1099;3;3297
+2020-04-12;Mia;Pen;3;4;12
+2020-07-31;Emma;Desk pad;9;3;27
+2020-10-26;Charlotte;Markers;4;2;8
+2020-06-11;Sophia;File folders;19;5;95
+2020-07-01;Liam;Markers;4;2;8
+2020-11-27;Liam;Desk chair;199;1;199
+2020-06-25;Liam;File folders;19;4;76
+2020-05-14;Charlotte;Light;399;1;399
+2020-02-15;Mia;Desk chair;199;2;398
+2020-11-05;Charlotte;Table;1099;2;2198
+2020-09-05;William;Desk chair;199;2;398
+2020-02-22;William;Pen;3;2;6
+2020-12-25;Liam;Pen;3;3;9
+2020-06-15;Oliver;Desk chair;199;1;199
+2020-10-16;Mia;Pen;3;1;3
+2020-06-22;Oliver;File folders;19;3;57
+2020-06-07;Oliver;Table;1099;2;2198
+2020-05-29;Charlotte;Light;399;5;1995
+2020-12-18;Noah;Desk chair;199;1;199
+2020-10-09;Emma;Pen;3;2;6
+2020-09-26;Sophia;Markers;4;3;12
+2020-03-17;Oliver;Markers;4;4;16
+2020-04-04;Liam;Pen;3;3;9
+2020-03-03;Oliver;File folders;19;2;38
+2020-10-05;Mia;Desk chair;199;2;398
+2020-11-10;Mia;Book;12;2;24
+2020-03-06;Noah;Book;12;5;60
+2020-12-04;Noah;Pen;3;3;9
+2020-09-17;Emma;Desk chair;199;5;995
+2020-04-19;Oliver;Light;399;4;1596
+2020-11-30;William;File folders;19;3;57
+2020-09-03;William;File folders;19;1;19
+2020-06-15;Ethan;Desk pad;9;3;27
+2020-01-28;William;Pen;3;5;15
+2020-08-26;Mia;Pen;3;4;12
+2020-02-05;Emma;Light;399;4;1596
+2020-07-17;William;Book;12;2;24
+2020-08-23;Ethan;Book;12;5;60
+2020-08-30;William;Desk pad;9;5;45
+2020-03-16;William;Table;1099;5;5495
+2020-06-26;Noah;Book;12;2;24
+2020-06-28;Liam;Light;399;4;1596
+2020-10-23;Sophia;Desk chair;199;3;597
+2020-08-31;Charlotte;Desk pad;9;2;18
+2020-01-24;Mia;Book;12;5;60
+2020-06-04;William;Pen;3;1;3
+2020-05-20;Ethan;Pen;3;3;9
+2020-03-20;Sophia;Table;1099;4;4396
+2020-07-07;William;Book;12;4;48
+2020-03-03;William;Markers;4;2;8
+2020-08-28;Charlotte;Book;12;4;48
+2020-08-13;Charlotte;Book;12;4;48
+2020-10-29;Charlotte;Desk chair;199;3;597
+2020-10-15;Ethan;Light;399;3;1197
+2020-02-03;Mia;Light;399;1;399
+2020-07-27;Charlotte;Pen;3;2;6
+2020-11-21;William;File folders;19;1;19
+2020-03-12;William;Pen;3;4;12
+2020-08-22;Charlotte;Table;1099;1;1099
+2020-01-25;Ethan;File folders;19;4;76
+2020-09-09;Emma;Pen;3;4;12
+2020-08-22;Mia;Desk pad;9;3;27
+2020-09-02;Noah;Desk chair;199;3;597
+2020-03-21;Sophia;Desk pad;9;1;9
+2020-04-15;William;Table;1099;1;1099
+2020-07-12;Liam;File folders;19;3;57
+2020-06-27;Ethan;Desk chair;199;2;398
+2020-04-26;William;Markers;4;1;4
+2020-07-03;Emma;Pen;3;3;9
+2020-09-02;Ethan;Book;12;5;60
+2020-10-31;Emma;Desk chair;199;1;199
+2020-02-23;Charlotte;Markers;4;1;4
+2020-02-21;Liam;File folders;19;5;95
+2020-12-08;Mia;Pen;3;4;12
+2020-05-04;Emma;Pen;3;5;15
+2020-10-04;Mia;Table;1099;4;4396
+2020-09-20;Oliver;Light;399;3;1197
+2020-12-06;Emma;Markers;4;1;4
+2020-05-05;Noah;File folders;19;5;95
+2020-06-23;Emma;Book;12;5;60
+2020-09-19;Sophia;Light;399;2;798
+2020-05-17;Oliver;Desk pad;9;5;45
+2020-11-28;Liam;Markers;4;2;8
+2020-01-13;Noah;File folders;19;2;38
+2020-01-07;Emma;File folders;19;3;57
+2020-03-21;Mia;Desk chair;199;5;995
+2020-11-17;Ethan;Pen;3;4;12
+2020-06-01;Emma;Desk pad;9;5;45
+2020-05-06;Mia;Book;12;5;60
+2020-09-27;Noah;Markers;4;4;16
+2020-10-07;Liam;Markers;4;1;4
+2020-03-19;Ethan;Book;12;3;36
+2020-06-23;Emma;File folders;19;1;19
+2020-02-29;Charlotte;Desk chair;199;4;796
+2020-11-04;Noah;Pen;3;5;15
+2020-11-17;Oliver;File folders;19;3;57
+2020-09-18;Mia;Table;1099;2;2198
+2020-07-16;Liam;File folders;19;3;57
+2020-03-20;Charlotte;Pen;3;5;15
+2020-01-02;Mia;Desk chair;199;2;398
+2020-11-28;Liam;Book;12;4;48
+2020-03-26;Emma;Table;1099;3;3297
+2020-11-14;Mia;File folders;19;3;57
+2020-02-06;Oliver;Book;12;1;12
+2020-09-11;William;Pen;3;5;15
+2020-06-14;Noah;Table;1099;3;3297
+2020-11-02;Mia;Pen;3;5;15
+2020-10-30;William;Pen;3;2;6
+2020-01-18;Noah;Table;1099;2;2198
+2020-12-16;Liam;Book;12;2;24
+2020-02-14;Noah;Pen;3;4;12
+2020-09-16;Charlotte;Desk chair;199;4;796
+2020-03-07;Emma;Markers;4;5;20
+2020-06-15;Emma;Desk pad;9;3;27
+2020-05-28;Sophia;Desk pad;9;2;18
+2020-11-11;William;Desk chair;199;4;796
+2020-01-29;Charlotte;Book;12;3;36
+2020-01-23;Charlotte;Desk pad;9;2;18
+2020-04-20;Sophia;Table;1099;3;3297
+2020-07-25;Noah;File folders;19;4;76
+2020-12-11;Noah;Desk chair;199;1;199
+2020-09-20;Oliver;Markers;4;1;4
+2020-07-17;Oliver;Pen;3;4;12
+2020-12-11;Liam;Markers;4;3;12
+2020-07-09;Mia;Book;12;4;48
+2020-05-25;Emma;Table;1099;2;2198
+2020-05-09;Noah;Book;12;5;60
+2020-03-25;Noah;Markers;4;1;4
+2020-08-06;Emma;Pen;3;3;9
+2020-10-07;Noah;Pen;3;4;12
+2020-12-26;Liam;File folders;19;5;95
+2020-06-24;Oliver;Desk chair;199;1;199
+2020-10-09;Oliver;Pen;3;2;6
+2020-01-24;Liam;Table;1099;4;4396
+2020-06-09;Oliver;Light;399;1;399
+2020-03-03;Mia;Light;399;2;798
+2020-12-09;Noah;Book;12;2;24
+2020-01-03;Liam;Table;1099;3;3297
+2020-02-24;Charlotte;Markers;4;1;4
+2020-06-01;Noah;Pen;3;3;9
+2020-01-12;Noah;Desk chair;199;4;796
+2020-11-11;Mia;Light;399;2;798
+2020-01-16;Sophia;Table;1099;5;5495
+2020-06-25;Emma;Desk pad;9;1;9
+2020-11-20;Sophia;Light;399;1;399
+2020-12-10;Charlotte;File folders;19;5;95
+2020-03-11;Charlotte;Pen;3;5;15
+2020-03-11;Mia;Light;399;3;1197
+2020-02-01;Mia;Desk chair;199;5;995
+2020-10-14;Emma;Pen;3;5;15
+2020-08-11;William;Desk chair;199;2;398
+2020-07-19;Emma;Pen;3;1;3
+2020-01-06;William;Desk chair;199;3;597
+2020-12-09;Emma;File folders;19;5;95
+2020-03-27;Charlotte;Desk pad;9;3;27
+2020-02-03;William;Markers;4;3;12
+2020-09-13;Oliver;Light;399;1;399
+2020-03-31;Ethan;Pen;3;5;15
+2020-08-07;Ethan;Pen;3;2;6
+2020-07-04;Mia;Markers;4;1;4
+2020-12-10;Emma;Table;1099;3;3297
+2020-08-16;Liam;Desk pad;9;1;9
+2020-02-11;Liam;Desk pad;9;1;9
+2020-04-27;Ethan;Book;12;4;48
+2020-02-21;Mia;Desk chair;199;4;796
+2020-04-23;Charlotte;Pen;3;5;15
+2020-09-07;Ethan;File folders;19;1;19
+2020-03-13;Ethan;Book;12;2;24
+2020-05-05;Sophia;Pen;3;5;15
+2020-12-14;Sophia;Book;12;3;36
+2020-03-05;Ethan;File folders;19;3;57
+2020-09-23;William;Desk pad;9;5;45
+2020-10-22;Liam;Table;1099;3;3297
+2020-06-20;Liam;Book;12;2;24
+2020-10-04;Oliver;Book;12;4;48
+2020-10-03;Ethan;Desk chair;199;5;995
+2020-12-13;Oliver;Book;12;5;60
+2020-12-18;Sophia;Table;1099;4;4396
+2020-10-01;Oliver;Pen;3;2;6
+2020-09-28;William;Pen;3;5;15
+2020-06-01;Emma;File folders;19;5;95
+2020-09-29;Ethan;Pen;3;2;6
+2020-08-04;Noah;Desk pad;9;2;18
+2020-03-28;Sophia;Book;12;1;12
+2020-02-11;Mia;Table;1099;5;5495
+2020-02-18;Emma;Table;1099;1;1099
+2020-01-20;Mia;Desk chair;199;4;796
+2020-05-02;Noah;Markers;4;4;16
+2020-06-22;Sophia;Pen;3;4;12
+2020-12-23;Ethan;Light;399;3;1197
+2020-02-15;Oliver;Book;12;3;36
+2020-03-27;Oliver;Desk chair;199;3;597
+2020-06-03;Sophia;Light;399;4;1596
+2020-11-26;William;Desk chair;199;2;398
+2020-05-07;Oliver;Desk chair;199;1;199
+2020-02-07;Sophia;Pen;3;2;6
+2020-02-06;Noah;Desk pad;9;3;27
+2020-06-25;William;Pen;3;1;3
+2020-09-22;Emma;Markers;4;1;4
+2020-11-22;Oliver;Desk chair;199;4;796
+2020-11-05;Emma;File folders;19;2;38
+2020-04-22;Liam;Desk pad;9;2;18
+2020-10-22;Sophia;Pen;3;3;9
+2020-01-09;Liam;File folders;19;5;95
+2020-07-18;Noah;Light;399;2;798
+2020-11-10;Sophia;Book;12;5;60
+2020-10-15;Sophia;Markers;4;5;20
+2020-02-04;Mia;Pen;3;5;15
+2020-01-06;Mia;Pen;3;5;15
+2020-07-08;Emma;Desk chair;199;2;398
+2020-11-25;Mia;Table;1099;3;3297
+2020-04-23;Oliver;Desk pad;9;5;45
+2020-01-04;Ethan;Book;12;5;60
+2020-05-18;Mia;Desk chair;199;4;796
+2020-10-03;Noah;Markers;4;2;8
+2020-08-14;Ethan;Desk pad;9;4;36
+2020-01-12;Charlotte;Table;1099;4;4396
+2020-08-06;Mia;Desk pad;9;1;9
+2020-08-10;Liam;Desk pad;9;3;27
+2020-05-26;Mia;Desk chair;199;1;199
+2020-09-15;Liam;Desk chair;199;3;597
+2020-07-10;Emma;Markers;4;3;12
+2020-12-08;Liam;Desk chair;199;1;199
+2020-11-18;Charlotte;Book;12;5;60
+2020-08-18;William;File folders;19;1;19
+2020-07-29;Oliver;Desk pad;9;5;45
+2020-12-09;William;Pen;3;3;9
+2020-06-03;Emma;Markers;4;4;16
+2020-04-04;Noah;Book;12;5;60
+2020-09-28;Mia;Markers;4;3;12
+2020-03-05;Sophia;Table;1099;2;2198
+2020-06-06;Sophia;Table;1099;4;4396
+2020-06-23;Ethan;Pen;3;4;12
+2020-05-03;Charlotte;File folders;19;2;38
+2020-09-11;Emma;Table;1099;4;4396
+2020-03-24;Noah;Desk chair;199;4;796
+2020-09-05;Charlotte;File folders;19;5;95
+2020-02-08;William;Light;399;4;1596
+2020-05-21;Oliver;Book;12;3;36
+2020-03-29;Emma;Markers;4;2;8
+2020-11-27;Noah;Desk chair;199;1;199
+2020-05-22;Emma;Light;399;4;1596
+2020-03-06;Emma;Light;399;2;798
+2020-01-31;Noah;Table;1099;2;2198
+2020-04-16;Ethan;Desk chair;199;4;796
+2020-08-03;Charlotte;Desk pad;9;4;36
+2020-12-19;Sophia;Table;1099;1;1099
+2020-09-10;Liam;Markers;4;4;16
+2020-10-22;Liam;File folders;19;2;38
+2020-07-17;William;Table;1099;2;2198
+2020-12-19;Oliver;Table;1099;2;2198
+2020-05-02;Ethan;Book;12;2;24
+2020-12-01;Liam;Light;399;2;798
+2020-10-29;William;Light;399;3;1197
+2020-11-01;Ethan;Light;399;5;1995
+2020-12-24;Emma;Pen;3;3;9
+2020-05-06;William;File folders;19;4;76
+2020-06-06;Emma;Table;1099;3;3297
+2020-02-01;Noah;Light;399;2;798
+2020-10-21;Sophia;Light;399;5;1995
+2020-05-04;Oliver;Table;1099;4;4396
+2020-12-23;Noah;Light;399;2;798
+2020-02-21;Emma;Markers;4;3;12
+2020-07-14;Noah;Table;1099;4;4396
+2020-05-15;Charlotte;Table;1099;1;1099
+2020-02-07;Ethan;Light;399;5;1995
+2020-01-12;Liam;Table;1099;3;3297
+2020-05-14;Oliver;File folders;19;4;76
+2020-06-01;Noah;Desk pad;9;3;27
+2020-10-18;Liam;Pen;3;5;15
+2020-07-17;Noah;Table;1099;5;5495
+2020-01-25;Sophia;Pen;3;1;3
+2020-01-03;Noah;Desk chair;199;2;398
+2020-07-12;Oliver;File folders;19;4;76
+2020-10-31;Sophia;Desk chair;199;4;796
+2020-06-17;Mia;Desk chair;199;5;995
+2020-10-19;William;Desk chair;199;5;995
+2020-12-30;Sophia;Light;399;3;1197
+2020-09-17;William;Table;1099;3;3297
+2020-09-15;Oliver;Pen;3;5;15
+2020-12-17;Mia;Pen;3;4;12
+2020-02-21;Noah;Desk pad;9;5;45
+2020-11-13;Sophia;Desk pad;9;3;27
+2020-06-10;Emma;Table;1099;5;5495
+2020-01-02;Oliver;Desk chair;199;2;398
+2020-05-08;Noah;Table;1099;2;2198
+2020-11-26;Emma;Desk pad;9;1;9
+2020-08-19;Liam;Book;12;1;12
+2020-12-26;Liam;Book;12;2;24
+2020-12-25;Noah;Desk chair;199;4;796
+2020-01-14;Sophia;Table;1099;4;4396
+2020-04-09;Liam;Table;1099;3;3297
+2020-11-16;Ethan;Book;12;5;60
+2020-11-25;Charlotte;Markers;4;2;8
+2020-02-22;Charlotte;Pen;3;1;3
+2020-06-18;Sophia;Table;1099;5;5495
+2020-10-10;Emma;Book;12;4;48
+2020-11-19;William;File folders;19;1;19
+2020-02-07;William;Pen;3;5;15
+2020-02-17;Charlotte;Desk chair;199;4;796
+2020-04-19;Liam;Book;12;4;48
+2020-03-09;Emma;Book;12;1;12
+2020-12-20;Liam;Light;399;4;1596
+2020-03-25;Mia;File folders;19;2;38
+2020-04-18;Oliver;Book;12;5;60
+2020-10-23;Ethan;Table;1099;1;1099
+2020-04-19;Oliver;Table;1099;4;4396
+2020-01-31;Sophia;Table;1099;3;3297
+2020-08-28;Liam;Pen;3;4;12
+2020-03-03;Ethan;Pen;3;5;15
+2020-09-23;William;Table;1099;2;2198
+2020-11-05;Liam;Markers;4;2;8
+2020-11-27;Noah;Pen;3;2;6
+2020-06-10;Liam;Book;12;2;24
+2020-07-26;William;Table;1099;4;4396
+2020-02-06;Oliver;Book;12;2;24
+2020-04-24;William;File folders;19;4;76
+2020-09-22;Mia;Light;399;4;1596
+2020-06-27;Sophia;Table;1099;1;1099
+2020-09-18;Liam;File folders;19;3;57
+2020-12-13;Emma;Book;12;3;36
+2020-12-29;Noah;Light;399;1;399
+2020-01-18;Sophia;Desk pad;9;4;36
+2020-08-15;William;Book;12;4;48
+2020-11-27;Oliver;Desk pad;9;5;45
+2020-05-23;Emma;Markers;4;2;8
+2020-01-19;Sophia;Light;399;5;1995
+2020-07-19;Noah;Table;1099;1;1099
+2020-11-13;Noah;File folders;19;4;76
+2020-10-17;Sophia;File folders;19;3;57
+2020-11-28;Emma;Desk chair;199;4;796
+2020-08-01;Emma;Table;1099;1;1099
+2020-03-08;Liam;Desk pad;9;2;18
+2020-05-02;Liam;Pen;3;5;15
+2020-01-03;Oliver;File folders;19;1;19
+2020-05-14;Charlotte;Desk pad;9;3;27
+2020-03-10;Mia;Light;399;5;1995
+2020-12-07;Emma;Desk pad;9;2;18
+2020-10-19;Mia;Desk pad;9;1;9
+2020-09-22;Sophia;Desk pad;9;1;9
+2020-07-14;Sophia;Light;399;4;1596
+2020-09-25;Sophia;File folders;19;5;95
+2020-11-11;Emma;Table;1099;3;3297
+2020-10-07;Ethan;Table;1099;4;4396
+2020-09-02;Mia;Desk pad;9;5;45
+2020-01-22;Mia;Pen;3;5;15
+2020-02-24;Charlotte;Pen;3;5;15
+2020-04-08;Noah;Desk pad;9;5;45
+2020-12-20;Noah;Desk chair;199;1;199
+2020-05-02;Emma;Light;399;4;1596
+2020-02-13;Ethan;Pen;3;5;15
+2020-06-10;Emma;Light;399;4;1596
+2020-12-30;Liam;Markers;4;2;8
+2020-04-24;Noah;Table;1099;2;2198
+2020-02-01;Charlotte;Pen;3;1;3
+2020-10-18;Noah;Markers;4;1;4
+2020-11-03;Charlotte;Desk chair;199;1;199
+2020-03-27;Noah;Light;399;4;1596
+2020-12-27;Mia;Markers;4;3;12
+2020-03-10;Noah;Markers;4;3;12
+2020-08-06;William;Light;399;1;399
+2020-01-03;Noah;Book;12;5;60
+2020-01-09;Sophia;Markers;4;3;12
+2020-11-05;Sophia;Desk chair;199;3;597
+2020-05-06;Sophia;Light;399;2;798
+2020-11-26;Liam;Light;399;2;798
+2020-12-01;William;Markers;4;2;8
+2020-04-26;Mia;Table;1099;4;4396
+2020-07-16;Emma;Book;12;2;24
+2020-09-22;Oliver;Light;399;5;1995
+2020-01-06;Noah;Table;1099;5;5495
+2020-01-07;Liam;Pen;3;5;15
+2020-11-05;Ethan;Desk pad;9;4;36
+2020-02-18;Emma;Light;399;1;399
+2020-03-06;Liam;Pen;3;3;9
+2020-12-29;Emma;Pen;3;5;15
+2020-08-23;Noah;Light;399;2;798
+2020-05-12;Ethan;Markers;4;2;8
+2020-06-30;Ethan;Table;1099;1;1099
+2020-10-10;Sophia;File folders;19;1;19
+2020-11-17;Emma;Light;399;4;1596
+2020-09-12;Ethan;File folders;19;2;38
+2020-05-15;Emma;Book;12;1;12
+2020-06-24;Liam;Light;399;2;798
+2020-09-06;Mia;Desk pad;9;1;9
+2020-12-16;Ethan;Desk pad;9;1;9
+2020-07-19;Mia;Markers;4;2;8
+2020-06-12;Emma;Book;12;1;12
+2020-11-10;Charlotte;Markers;4;4;16
+2020-07-22;Sophia;Book;12;4;48
+2020-01-04;Charlotte;Light;399;4;1596
+2020-07-27;William;Table;1099;3;3297
+2020-09-20;William;File folders;19;1;19
+2020-08-27;Mia;Pen;3;3;9
+2020-06-22;Noah;Book;12;3;36
+2020-02-05;Oliver;Desk chair;199;5;995
+2020-05-15;Charlotte;Light;399;4;1596
+2020-01-19;Emma;Markers;4;4;16
+2020-09-16;Mia;Pen;3;4;12
+2020-04-26;William;Table;1099;3;3297
+2020-06-14;Liam;Light;399;1;399
+2020-12-26;Emma;Light;399;2;798
+2020-04-17;Mia;Desk chair;199;2;398
+2020-05-12;Sophia;Table;1099;4;4396
+2020-11-08;Sophia;Desk pad;9;2;18
+2020-10-02;Sophia;Markers;4;2;8
+2020-09-07;Noah;Pen;3;3;9
+2020-03-17;Liam;Table;1099;3;3297
+2020-07-28;Oliver;Table;1099;1;1099
+2020-01-29;Oliver;Table;1099;1;1099
+2020-03-02;Oliver;Pen;3;1;3
+2020-10-28;Oliver;Book;12;4;48
+2020-04-09;William;Table;1099;1;1099
+2020-05-03;Emma;File folders;19;5;95
+2020-10-06;Oliver;Desk chair;199;1;199
+2020-02-27;Charlotte;Markers;4;2;8
+2020-03-30;Charlotte;Light;399;3;1197
+2020-11-03;Emma;Book;12;2;24
+2020-05-24;Noah;Light;399;5;1995
+2020-01-26;Mia;Desk pad;9;2;18
+2020-10-29;Charlotte;File folders;19;1;19
+2020-01-05;William;Desk pad;9;4;36
+2020-09-30;Liam;File folders;19;4;76
+2020-01-09;Noah;Desk pad;9;5;45
+2020-06-07;Ethan;Markers;4;5;20
+2020-03-21;Mia;File folders;19;2;38
+2020-07-03;Mia;Markers;4;3;12
+2020-12-14;Oliver;Desk pad;9;4;36
+2020-04-24;Oliver;Table;1099;4;4396
+2020-08-30;Emma;File folders;19;1;19
+2020-03-24;Charlotte;Markers;4;4;16
+2020-08-05;Sophia;Desk chair;199;3;597
+2020-04-06;Noah;Desk chair;199;3;597
+2020-08-14;Mia;Table;1099;4;4396
+2020-06-16;Mia;Light;399;1;399
+2020-08-31;Charlotte;Desk chair;199;3;597
+2020-01-28;Oliver;Desk pad;9;5;45
+2020-01-20;William;Markers;4;3;12
+2020-06-06;William;Light;399;1;399
+2020-06-17;Liam;Pen;3;4;12
+2020-03-30;Liam;Table;1099;2;2198
+2020-05-27;William;File folders;19;1;19
+2020-05-13;Oliver;Table;1099;2;2198
+2020-09-22;Oliver;Light;399;5;1995
+2020-09-30;Mia;Desk pad;9;3;27
+2020-12-24;William;File folders;19;3;57
+2020-07-05;Oliver;Desk chair;199;5;995
+2020-01-22;Emma;Light;399;5;1995
+2020-12-16;Emma;Light;399;1;399
+2020-03-18;Sophia;Desk pad;9;2;18
+2020-08-16;Charlotte;File folders;19;2;38
+2020-04-07;Noah;File folders;19;4;76
+2020-02-03;Emma;Table;1099;2;2198
+2020-05-16;Sophia;Desk pad;9;5;45
+2020-07-02;Oliver;Desk pad;9;5;45
+2020-11-03;William;Light;399;5;1995
+2020-12-11;Mia;File folders;19;1;19
+2020-07-06;Emma;Pen;3;3;9
+2020-01-08;Emma;Table;1099;3;3297
+2020-08-21;Sophia;Markers;4;3;12
+2020-08-20;Sophia;Table;1099;4;4396
+2020-01-28;Mia;File folders;19;2;38
+2020-12-12;Ethan;Light;399;5;1995
+2020-09-20;Mia;Book;12;5;60
+2020-12-11;Oliver;File folders;19;1;19
+2020-12-18;Emma;Desk chair;199;3;597
+2020-12-27;Charlotte;Desk pad;9;1;9
+2020-03-22;Oliver;Table;1099;1;1099
+2020-07-06;Emma;Desk pad;9;3;27
+2020-12-23;Ethan;Light;399;4;1596
+2020-07-24;Sophia;Markers;4;4;16
+2020-06-29;Sophia;Desk pad;9;3;27
+2020-02-04;Sophia;Markers;4;1;4
+2020-02-29;Ethan;Table;1099;3;3297
+2020-06-13;Emma;File folders;19;4;76
+2020-09-12;Charlotte;Table;1099;5;5495
+2020-08-03;Ethan;Markers;4;2;8
+2020-02-22;Emma;Book;12;1;12
+2020-06-12;Charlotte;Desk pad;9;4;36
+2020-03-09;Oliver;Book;12;1;12
+2020-10-15;Oliver;Book;12;1;12
+2020-07-03;Oliver;Desk chair;199;1;199
+2020-12-03;Emma;File folders;19;2;38
+2020-06-12;Charlotte;Book;12;3;36
+2020-03-08;Liam;Markers;4;2;8
+2020-07-01;Emma;Markers;4;4;16
+2020-06-10;William;File folders;19;3;57
+2020-04-18;Liam;Desk pad;9;2;18
+2020-01-17;Noah;Book;12;1;12
+2020-04-21;Ethan;Desk pad;9;4;36
+2020-10-08;Noah;Markers;4;1;4
+2020-12-19;Emma;File folders;19;5;95
+2020-05-02;Charlotte;Desk chair;199;3;597
+2020-02-20;Oliver;Book;12;1;12
+2020-07-07;Ethan;Table;1099;3;3297
+2020-10-24;Oliver;Desk chair;199;4;796
+2020-09-11;Oliver;Desk pad;9;3;27
+2020-11-28;Liam;Table;1099;5;5495
+2020-05-05;Noah;Desk pad;9;1;9
+2020-04-25;Sophia;Light;399;5;1995
+2020-07-15;Charlotte;Markers;4;1;4
+2020-04-16;Ethan;Light;399;4;1596
+2020-09-17;Liam;Desk chair;199;4;796
+2020-06-30;Charlotte;Desk pad;9;4;36
+2020-01-01;Mia;Table;1099;2;2198
+2020-03-22;Emma;Light;399;2;798
+2020-10-28;Noah;Light;399;2;798
+2020-12-15;Liam;File folders;19;2;38
+2020-07-23;Charlotte;Table;1099;4;4396
+2020-03-05;Emma;Light;399;5;1995
+2020-04-08;Emma;Pen;3;2;6
+2020-10-05;Liam;Desk pad;9;4;36
+2020-08-16;Sophia;Desk pad;9;1;9
+2020-06-30;Ethan;Desk chair;199;1;199
+2020-06-09;Mia;Pen;3;2;6
+2020-09-02;William;Light;399;1;399
+2020-01-26;William;Book;12;5;60
+2020-03-21;Noah;Light;399;1;399
+2020-07-11;Oliver;Book;12;1;12
+2020-12-18;Sophia;File folders;19;4;76
+2020-01-15;Charlotte;Book;12;3;36
+2020-05-16;Emma;Book;12;3;36
+2020-10-31;William;Table;1099;4;4396
+2020-11-04;Emma;Book;12;1;12
+2020-07-18;Oliver;Light;399;4;1596
+2020-09-16;Liam;Markers;4;1;4
+2020-03-21;Sophia;File folders;19;4;76
+2020-02-12;Emma;Desk pad;9;4;36
+2020-12-16;Oliver;Desk pad;9;5;45
+2020-11-25;Oliver;Markers;4;1;4
+2020-01-23;Charlotte;Markers;4;1;4
+2020-11-10;Charlotte;Book;12;2;24
+2020-04-28;Noah;Table;1099;2;2198
+2020-07-19;Liam;Table;1099;2;2198
+2020-05-23;Noah;File folders;19;3;57
+2020-03-05;Noah;Markers;4;5;20
+2020-03-25;Sophia;Light;399;3;1197
+2020-01-13;William;Book;12;1;12
+2020-07-22;Charlotte;Markers;4;3;12
+2020-07-11;William;Markers;4;4;16
+2020-11-16;Oliver;File folders;19;3;57
+2020-04-17;Oliver;File folders;19;3;57
+2020-01-20;Emma;Desk pad;9;3;27
+2020-04-02;Sophia;Light;399;1;399
+2020-07-28;William;Desk chair;199;2;398
+2020-07-31;Noah;Table;1099;1;1099
+2020-12-27;Liam;Book;12;2;24
+2020-08-30;Noah;Book;12;4;48
+2020-10-03;William;Desk pad;9;2;18
+2020-12-20;Ethan;Pen;3;2;6
+2020-05-09;Mia;Desk pad;9;2;18
+2020-11-29;Sophia;Desk pad;9;5;45
+2020-09-03;Liam;Light;399;5;1995
+2020-06-20;William;Pen;3;5;15
+2020-08-15;Emma;Markers;4;5;20
+2020-10-27;Liam;Markers;4;2;8
+2020-11-26;Emma;Markers;4;1;4
+2020-11-07;William;Markers;4;2;8
+2020-06-30;Ethan;Book;12;4;48
+2020-04-28;Sophia;Pen;3;2;6
+2020-02-28;Liam;Desk chair;199;2;398
+2020-03-18;Mia;Table;1099;4;4396
+2020-04-10;William;Book;12;2;24
+2020-12-14;Oliver;Desk chair;199;4;796
+2020-06-24;Ethan;Table;1099;2;2198
+2020-10-10;William;Desk pad;9;2;18
+2020-06-24;Emma;Markers;4;2;8
+2020-04-15;Noah;Desk pad;9;5;45
+2020-04-02;Liam;File folders;19;3;57
+2020-11-12;Mia;Light;399;4;1596
+2020-05-28;Oliver;Pen;3;5;15
+2020-01-18;Charlotte;Markers;4;4;16
+2020-08-24;William;File folders;19;4;76
+2020-12-27;Sophia;Table;1099;5;5495
+2020-05-30;Sophia;Table;1099;3;3297
+2020-04-18;Liam;Markers;4;4;16
+2020-07-23;William;Table;1099;3;3297
+2020-06-01;Mia;Desk chair;199;3;597
+2020-03-08;Mia;Table;1099;2;2198
+2020-01-31;Liam;File folders;19;5;95
+2020-03-08;Oliver;Light;399;3;1197
+2020-08-28;Sophia;Desk pad;9;3;27
+2020-07-24;William;Table;1099;3;3297
+2020-05-02;Oliver;Desk chair;199;3;597
+2020-10-07;Emma;Markers;4;1;4
+2020-01-08;Mia;Markers;4;3;12
+2020-08-09;Oliver;Table;1099;5;5495
+2020-02-06;William;Desk chair;199;3;597
+2020-09-12;Sophia;Desk chair;199;1;199
+2020-11-11;Oliver;Desk pad;9;1;9
+2020-10-29;Mia;Desk chair;199;2;398
+2020-11-14;Sophia;Table;1099;5;5495
+2020-04-06;Charlotte;File folders;19;1;19
+2020-09-24;Ethan;File folders;19;5;95
+2020-10-28;Liam;Light;399;5;1995
+2020-01-19;Oliver;Pen;3;3;9
+2020-04-04;Mia;Markers;4;1;4
+2020-08-21;Noah;Book;12;3;36
+2020-02-03;Ethan;Light;399;5;1995
+2020-10-07;Sophia;File folders;19;1;19
+2020-04-23;Emma;Markers;4;1;4
+2020-08-21;Charlotte;Desk pad;9;5;45
+2020-11-25;William;Markers;4;2;8
+2020-03-08;Mia;File folders;19;1;19
+2020-09-26;Sophia;Markers;4;4;16
+2020-07-07;Charlotte;Pen;3;1;3
+2020-06-12;William;Light;399;4;1596
+2020-11-07;Mia;Book;12;3;36
+2020-08-18;Liam;File folders;19;2;38
+2020-04-17;Noah;Book;12;2;24
+2020-03-16;Oliver;Table;1099;5;5495
+2020-10-16;Emma;Pen;3;1;3
+2020-12-28;Noah;Light;399;3;1197
+2020-05-04;Oliver;Markers;4;2;8
+2020-06-26;Mia;Table;1099;3;3297
+2020-07-20;Ethan;Desk pad;9;4;36
+2020-02-18;Liam;Pen;3;1;3
+2020-02-05;Noah;Book;12;4;48
+2020-11-19;Mia;Desk chair;199;4;796
+2020-10-13;Oliver;Book;12;1;12
+2020-01-07;Ethan;Markers;4;2;8
+2020-07-23;William;Book;12;3;36
+2020-09-24;Mia;Desk chair;199;5;995
+2020-10-01;Emma;Desk chair;199;3;597
+2020-08-27;Ethan;Book;12;2;24
+2020-06-26;Emma;Desk chair;199;2;398
+2020-09-05;Liam;Desk pad;9;2;18
+2020-07-22;Ethan;Desk chair;199;1;199
+2020-01-24;Mia;Desk chair;199;2;398
+2020-12-01;Sophia;Desk chair;199;5;995
+2020-08-13;Sophia;Pen;3;5;15
+2020-08-02;Charlotte;Desk pad;9;2;18
+2020-07-06;William;Book;12;5;60
+2020-08-29;Liam;Book;12;3;36
+2020-11-01;Charlotte;Markers;4;4;16
+2020-06-02;Emma;Desk chair;199;5;995
+2020-05-29;Sophia;Desk pad;9;2;18
+2020-03-24;Charlotte;Pen;3;5;15
+2020-01-08;Mia;Light;399;4;1596
+2020-08-22;Oliver;Pen;3;2;6
+2020-08-19;Liam;Book;12;4;48
+2020-12-01;William;Table;1099;4;4396
+2020-01-27;Charlotte;Desk pad;9;4;36
+2020-05-26;Noah;Markers;4;4;16
+2020-08-17;Emma;Pen;3;4;12
+2020-01-20;Mia;Light;399;3;1197
+2020-07-07;Mia;Desk pad;9;3;27
+2020-06-28;Ethan;File folders;19;2;38
+2020-07-09;Sophia;Desk chair;199;2;398
+2020-06-26;Charlotte;File folders;19;1;19
+2020-08-16;Ethan;Markers;4;3;12
+2020-01-15;Mia;Markers;4;4;16
+2020-09-15;Emma;File folders;19;1;19
+2020-05-20;William;Desk pad;9;1;9
+2020-09-01;Liam;Light;399;1;399
+2020-03-31;Liam;Pen;3;3;9
+2020-11-04;Emma;Light;399;1;399
+2020-08-27;Emma;Pen;3;3;9
+2020-04-19;Sophia;Book;12;4;48
+2020-09-10;Oliver;File folders;19;5;95
+2020-12-13;Noah;Light;399;5;1995
+2020-09-25;William;Book;12;4;48
+2020-07-15;Noah;Pen;3;1;3
+2020-10-28;Ethan;Markers;4;3;12
+2020-12-27;Liam;Light;399;1;399
+2020-07-12;Liam;File folders;19;5;95
+2020-01-15;Noah;Desk pad;9;4;36
+2020-12-05;Noah;Book;12;3;36
+2020-10-24;Sophia;Desk chair;199;5;995
+2020-05-05;Liam;Desk pad;9;4;36
+2020-10-29;Liam;File folders;19;4;76
+2020-10-30;William;Desk chair;199;5;995
+2020-01-09;Ethan;Pen;3;4;12
+2020-04-18;Mia;Light;399;1;399
+2020-07-16;William;Book;12;4;48
+2020-07-13;Charlotte;Table;1099;2;2198
+2020-09-25;Oliver;Desk pad;9;1;9
+2020-12-22;William;Desk chair;199;3;597
+2020-11-10;Mia;File folders;19;1;19
+2020-11-24;Charlotte;Table;1099;2;2198
+2020-06-02;Noah;Book;12;2;24
+2020-09-22;Mia;Table;1099;3;3297
+2020-12-24;Mia;Table;1099;5;5495
+2020-11-19;Mia;Markers;4;3;12
+2020-09-30;Sophia;File folders;19;3;57
+2020-02-15;Charlotte;Desk chair;199;3;597
+2020-03-05;Charlotte;Pen;3;4;12
+2020-08-01;Mia;Light;399;3;1197
+2020-08-06;Charlotte;File folders;19;2;38
+2020-12-28;Liam;Book;12;5;60
+2020-01-31;Sophia;Markers;4;1;4
+2020-08-17;Ethan;File folders;19;4;76
+2020-06-28;Sophia;Markers;4;3;12
+2020-07-24;Mia;File folders;19;4;76
+2020-12-26;Charlotte;Light;399;4;1596
+2020-09-11;Emma;Light;399;3;1197
+2020-08-17;William;Markers;4;1;4
+2020-03-27;Oliver;Markers;4;1;4
+2020-06-26;Oliver;Desk chair;199;5;995
+2020-06-28;Oliver;File folders;19;1;19
+2020-10-27;Oliver;Pen;3;5;15
+2020-04-27;Liam;Table;1099;5;5495
+2020-01-03;Oliver;Markers;4;4;16
+2020-05-24;William;Pen;3;5;15
+2020-03-23;Emma;Markers;4;4;16
+2020-10-23;Noah;Light;399;2;798
+2020-02-21;Charlotte;File folders;19;1;19
+2020-07-19;Ethan;Book;12;3;36
+2020-10-19;Ethan;Book;12;3;36
+2020-06-07;Mia;Book;12;1;12
+2020-09-22;Charlotte;Table;1099;5;5495
+2020-06-14;Emma;Pen;3;1;3
+2020-08-09;Oliver;Table;1099;3;3297
+2020-05-17;Liam;File folders;19;5;95
+2020-06-19;Liam;Light;399;1;399
+2020-01-16;Liam;File folders;19;4;76
+2020-01-22;Mia;Pen;3;2;6
+2020-03-14;Charlotte;Light;399;4;1596
+2020-12-06;Charlotte;Desk chair;199;1;199
+2020-03-28;Charlotte;Light;399;2;798
+2020-02-23;Charlotte;File folders;19;3;57
+2020-08-01;Mia;Book;12;1;12
+2020-02-03;Emma;Table;1099;1;1099
+2020-06-25;Charlotte;Book;12;3;36
+2020-09-21;Mia;Light;399;2;798
+2020-02-28;Oliver;Desk chair;199;5;995
+2020-10-01;Sophia;Table;1099;4;4396
+2020-07-28;Sophia;Book;12;1;12
+2020-06-21;Liam;Pen;3;4;12
+2020-01-26;Noah;Desk chair;199;5;995
