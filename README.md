@@ -26,7 +26,7 @@ Note: On each of those options, you'll find:
 ### Option 2
 
 - No installations needed.
-- Follow online [YouTube course playlist](https://youtube.com/playlist?list=PLvMRWNpDTNwTNwsQmgTvvG2i1znjfMidt) and [eBook](https://www.learnpythonwithrune.org/learn-python/)
 - Go to [Colab Notebooks Folder](https://github.com/LearnPythonWithRune/LearnPython/tree/main/colab)
+- Follow online [YouTube course playlist](https://youtube.com/playlist?list=PLvMRWNpDTNwTNwsQmgTvvG2i1znjfMidt) and [eBook](https://www.learnpythonwithrune.org/learn-python/)
 
 - Note: On each notebook, click on "Open in Colab", in order to open it on Google Colab
